@@ -1,6 +1,6 @@
 ## App Info
 
-Visit app [here](https://airbnb-clone-ca71d.web.app);
+Visit app [here](https://airbnb-clone-ca71d.web.app).
 
 # Getting Started with Create React App
 
